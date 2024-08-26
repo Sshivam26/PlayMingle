@@ -1,10 +1,8 @@
 # MERN CHAT APP 💬
 
-This is the Chat + Game Application crafted with MERN Stack & Socket.
+A dynamic MERN chat and gaming real-time application.
 
-[**Live Demo →**](https://mern-t-chat.vercel.app/)
-
-## CORE FEATURES
+## FEATURES
 
 - 🚀 Authentication
 - 🚀 Search Users
