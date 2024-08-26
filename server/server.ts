@@ -50,7 +50,7 @@ app.use(
 		origin: [
 			'http://localhost:3000',
 			'http://localhost:3001',
-			'https://mern-t-chat.vercel.app',
+			'https://play-mingle-git-master-sshivam26s-projects.vercel.app/',
 		],
 	}),
 );
