@@ -1,6 +1,6 @@
 import { MoveProps } from '../types';
 
-export const PROD_ENDPOINT = 'https://api-chat-v0tz.onrender.com';
+export const PROD_ENDPOINT = 'https://play-mingle-api.vercel.app/';
 export const DEV_ENDPOINT = 'http://localhost:5000/';
 
 export const colors: string[] = [
